@@ -1,15 +1,6 @@
-# सहाय · Sahay — AI Welfare Navigator for Bharat
+#Sahay — AI Welfare Navigator for Bharat
 
 > **Tell Sahay your story — in Hindi or English, by voice or text — and watch every government scheme you deserve appear in 60 seconds.**
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white">
-  <img alt="Status" src="https://img.shields.io/badge/status-prototype-ff6b35">
-  <img alt="Made in Bharat" src="https://img.shields.io/badge/Made%20for-Bharat%20%F0%9F%87%AE%F0%9F%87%B3-138808">
-</p>
-
 ---
 
 ## The problem
